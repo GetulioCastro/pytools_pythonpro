@@ -2,7 +2,7 @@
 
 Módulo Intermediário - Pytools/PythonPro
 
-Link do site [Python Pro](https://www.python.pro.br)
+Link do site [Python Pro](https://www.python.pro.br)\n
 Link do GitHub [GitHub/GetulioCastro](https://github.com/GetulioCastro/pytools_pythonpro)
 
 
