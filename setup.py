@@ -102,9 +102,9 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+NAME = 'nome_do_seu_pacote_no_pypi'
 DESCRIPTION = "Exercício de aprendizagem referente criação de projetos na linguagem Python, Curso Python Pro."
-AUTHOR = "Getúlio Castro"
+AUTHOR = "gecastro"
 AUTHOR_EMAIL = "augustoge71@gmail.com"
 URL = "https://github.com/GetulioCastro/pytools_pythonpro"
 VERSION = __import__(PACKAGE).__version__
