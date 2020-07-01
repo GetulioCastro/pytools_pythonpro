@@ -102,7 +102,7 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = 'libpythonpro-0.1'
+NAME = 'libpythonpro-0.1.tar.gz'
 DESCRIPTION = "Exercício de aprendizagem referente criação de projetos na linguagem Python, Curso Python Pro."
 AUTHOR = "Getulio Castro"
 AUTHOR_EMAIL = "augustoge71@gmail.com"
