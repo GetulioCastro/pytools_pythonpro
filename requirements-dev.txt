@@ -6,11 +6,11 @@ pyflakes==2.2.0
 # Deps Pytest
 py==1.9.0
 atomicwrites==1.4.0
-attrs==19.3.0
+attrs==20.1.0
 pluggy==0.13.1
 wcwidth==0.2.5
 more-itertools==8.5.0
-pytest==6.0.0
+pytest==6.0.1
 
 # Coverage
 coverage==5.2.1
