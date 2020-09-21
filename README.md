@@ -15,10 +15,11 @@ Link do GitHub [GitHub/GetulioCastro](https://github.com/GetulioCastro/pytools_p
 
 Suportado versão 3 de Python
 
+
 Para instalar:
 ```Console
 python3 -m venv .venv
-.venv\Scripts\activate
+source .venv/bin/activate
 pip install -q -r requirements-dev.txt
 ```
 
