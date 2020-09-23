@@ -16,14 +16,14 @@ Link do GitHub [GitHub/GetulioCastro](https://github.com/GetulioCastro/pytools_p
 Suportado versão 3 de Python
 
 
-Para instalar:
+# Para instalar:
 ```Console
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -q -r requirements-dev.txt
 ```
 
-Para conferir a qualidade do código:
+# Para conferir a qualidade do código:
 ```Console
 flake8
 ```
