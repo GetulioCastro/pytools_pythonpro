@@ -4,7 +4,7 @@ Módulo Intermediário - Pytools/PythonPro
 
 Exercício de aprendizagem referente criação de projetos na linguagem Python, Curso Python Pro.
 
-Link do site [Python Pro](https://www.python.pro.br)
+Link do site [Python Pro](https://www.python.pro.br) \n
 Link do GitHub [GitHub/GetulioCastro](https://github.com/GetulioCastro/pytools_pythonpro)
 
 
